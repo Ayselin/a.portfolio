@@ -1,15 +1,17 @@
 import React, { Component } from 'react';
-import AboutMe from './AboutMe'
+import { BrowserRouter as Router, Route } from 'react-router-dom';
+import AboutMe from './AboutMe';
 import './App.css';
 
 
 class App extends Component {
   render() {
     return (
+      <Router>
       <div className="App">
-      <AboutMe />
+      <Route exact path='/'component={AboutMe} /> 
       </div>
-     
+      </Router> 
     );
   }
 }
