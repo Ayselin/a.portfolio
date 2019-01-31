@@ -13,7 +13,7 @@ export default function AboutMe() {
                    I am using HTML CSS and Javascript on a day-to-day basis.
                I like to build things that work and look good. I am constantly improving and learning </h3>
                 </div>
-
+                
                 <div className='container2'>
                     <img className='photo' src={photo2} alt='my photo' />
                     <div><h3>

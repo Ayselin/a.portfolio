@@ -6,11 +6,30 @@
   width: 30%;
   height: auto;
   margin-bottom: 2em;
+  flex: 1;
+  border: 1px solid red;
 }
 
+.title {
+  font-family: 'Courier New', Courier, monospace;
+}
+.container1 {
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
 .mainpage {
-  background-color: palegoldenrod
+  background-color: palegoldenrod;
+  padding: 0;
+  flex: 1;
+  border: 1px solid yellow
 }
 .about {
   font-family: 'Courier New', Courier, monospace
+}
+
+@media only screen and(max-width: 500px) {
+  .mainpage {
+    flex-direction: column
+  }
 }
