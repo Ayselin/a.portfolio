@@ -1,3 +1,16 @@
 .App {
   text-align: center;
 }
+
+.mainphoto {
+  width: 30%;
+  height: auto;
+  margin-bottom: 2em;
+}
+
+.mainpage {
+  background-color: palegoldenrod
+}
+.about {
+  font-family: 'Courier New', Courier, monospace
+}
