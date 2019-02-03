@@ -1,0 +1,17 @@
+header {
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 300px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 4rem;
+    color: rgb(59, 7, 59)
+}
+
+header p {
+    font-weight: 700;
+    font-size: 1.75rem;
+    color: rgb(59, 7, 59);
+}
