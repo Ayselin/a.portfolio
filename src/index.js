@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-//import App from './App';
 import * as serviceWorker from './serviceWorker';
 import Navigation from './Navigation/Navigation.js';
 import Header from './Header/Header.js';
-
+import About from './About/About';
+import Projects from './Projects/Projects';
 
 
 class App extends Component {
@@ -13,7 +13,9 @@ class App extends Component {
         return (
             <div>
             <Navigation logoTitle="Aysel Rzayeva"/>
-            <Header title="Welcome to My Page :)" />
+            <Header title="Welcome!" />
+            <About />
+            <Projects/>
             </div>
         );
     }
