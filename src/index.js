@@ -3,8 +3,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 //import App from './App';
 import * as serviceWorker from './serviceWorker';
-import Navigation from './Navigation.js';
-import Header from './Header';
+import Navigation from './Navigation/Navigation.js';
+import Header from './Header/Header.js';
+
+
 
 class App extends Component {
     render() {
