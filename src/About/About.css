@@ -11,9 +11,9 @@
     background-image: url('../img/moonlight2.jpg');
     width: 50%;
     height: 50vh;
+    display: block;
 }
 
 .about-p {
     display: flex;
-    
 }

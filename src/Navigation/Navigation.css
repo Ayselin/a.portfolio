@@ -16,13 +16,9 @@ ul a:hover {
     color: black;
   }
   
-
-.logo {
-    font-size: 30px;
-    color: bisque;
-}
 nav ul {
     list-style: none;
+    padding-right: 30px;
 }
 nav ul li {
     display: inline-block;
