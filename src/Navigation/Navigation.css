@@ -1,7 +1,8 @@
 nav {
+    opacity: .7;
     display: flex;
     justify-content: space-between;
-    background-color: rgb(8, 95, 59);
+    background-color: rgb(107, 6, 90);
     align-items: center;
     padding-right: 20px;
     padding-left: 20px;
