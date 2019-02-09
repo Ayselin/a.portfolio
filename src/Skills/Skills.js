@@ -1,16 +1,16 @@
 import React, { Component } from "react";
-import './Projects.css'
+import './Skills.css'
 
 
-class Projects extends Component {
+class Skills extends Component {
     render() {
         return (
             <div className="about">
-            <h1> My Projects </h1>
+            <h1> My Skills </h1>
             </div>
         )
     }
 
 }
 
-export default Projects;
+export default Skills;
