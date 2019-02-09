@@ -1,13 +1,21 @@
 nav {
-    opacity: .7;
+    opacity: .9;
     display: flex;
     justify-content: space-between;
-    background-color: rgb(107, 6, 90);
+    background-color: rgb(82, 3, 70);
     align-items: center;
-    padding-right: 20px;
-    padding-left: 20px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    top: 0;
+    width: 100%;
+    overflow: hidden;
+    position: fixed;
 }
+
+ul a:hover {
+    background: #ddd;
+    color: black;
+  }
+  
 
 .logo {
     font-size: 30px;

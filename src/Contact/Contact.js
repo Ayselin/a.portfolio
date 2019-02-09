@@ -1,16 +1,16 @@
 import React, { Component } from "react";
-import './Skills.css'
+import './Contact.css'
 
 
-class Skills extends Component {
+class Contact extends Component {
     render() {
         return (
             <div className="skills">
-            <h1> My Skills </h1>
+            <h1> Contact </h1>
             </div>
         )
     }
 
 }
 
-export default Skills;
+export default Contact;

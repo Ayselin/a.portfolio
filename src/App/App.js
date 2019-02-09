@@ -5,6 +5,8 @@ import Header from '../Header/Header';
 import About from '../About/About';
 import Projects from '../Projects/Projects';
 import Skills from '../Skills/Skills';
+//import Footer from '../Footer/Footer';
+import Contact from '../Contact/Contact';
 import './App.css';
 
 
@@ -12,11 +14,12 @@ class App extends Component {
     render() {
         return (
             <div>
-            <Navigation logoTitle="Aysel Rzayeva"/>
-            <Header title="Welcome!" />
+            <Navigation />
+            <Header title="Aysel Rzayeva" />
             <About />
             <Skills/>
             <Projects/>
+            <Contact/>
             </div>
         );
     }
