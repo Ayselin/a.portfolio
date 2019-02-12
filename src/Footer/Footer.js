@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import './Footer.css'
 
 
-class Projects extends Component {
+class Footer extends Component {
     render() {
         return (
             <div className="about">
