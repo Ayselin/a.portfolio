@@ -20,39 +20,25 @@ export default function  Header() {
 
     const content = [
         {
-          text: 'Hi, .',
+          text: 'Hi, I am a Web Developer from London, UK.',
           className: 'classA',
           animation: 'fade',
         },
         {
-          text: 'We shall fight on the landing grounds.',
+          text: 'Nice to meet You !',
           className: 'classA',
           animation: 'fade',
         },
-        {
-          text: 'We shall fight in the fields and in the streets.',
-          className: 'classA',
-          animation: 'fade',
-        },
-        {
-          text: 'We shall fight in the hills.',
-          className: 'classA',
-          animation: 'fade',
-        },
-        {
-          text: 'We shall never surrender...',
-          className: 'classA',
-          animation: 'fade',
-        },
+        
       ];
        
       const MyComponent = () => (
         <div>
-          <h1>Aysel Rzayeva</h1>
+          <h1 className='header-title'>Aysel Rzayeva</h1>
           <ReactTextRotator
             content={content}
-            time={5000}
-            startDelay={2000}
+            time={4000}
+            startDelay={3000}
           />
         </div>
       );

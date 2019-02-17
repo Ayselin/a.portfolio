@@ -1,5 +1,6 @@
 .skills {
-    background-color: rgb(107, 220, 235);
+    flex-wrap: wrap;
+    background-color: rgb(141, 235, 172);
     padding-top: 110px;
     padding-bottom: 110px;
     text-align: center;
@@ -10,4 +11,19 @@
    margin-bottom: 40px;
    margin-top: 0;
    padding: 0;
+}
+.skills-row {
+  display: flex;
+  flex-basis: 120px;
+  justify-content: space-around;
+}
+.skills-row span {
+  background-color: white;
+  width: 112px;
+  height: 112px;
+  display: inline-block;
+  border-radius: 50%;
+  color: red;
+  font-size: 36px;
+  line-height: 120px
 }

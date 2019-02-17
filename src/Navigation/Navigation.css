@@ -28,3 +28,12 @@ nav ul li a {
     text-decoration: none;
     color: bisque;
 }
+.nav-links {
+  display:flex;
+  left: 5%;
+  margin: auto;
+  display: block !important;
+}
+.nav-links i {
+  color: black;
+}
