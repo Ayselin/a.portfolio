@@ -5,7 +5,7 @@ import './Projects.css'
 class Projects extends Component {
     render() {
         return (
-            <div className="projects">
+            <div className="projects" id='projects'>
             <h1> My Projects </h1>
             </div>
         )

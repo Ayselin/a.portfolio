@@ -5,7 +5,6 @@
     padding-bottom: 110px;
     text-align: center;
 }
-
  .skills h1 {
    color: rgb(104, 9, 104);
    margin-bottom: 40px;
@@ -14,16 +13,13 @@
 }
 .skills-row {
   display: flex;
-  flex-basis: 120px;
-  justify-content: space-around;
-}
-.skills-row span {
-  background-color: white;
-  width: 112px;
-  height: 112px;
-  display: inline-block;
+  /* flex-basis: 120px; */
+  justify-content: space-between;
+  width: 15%;
+  height: 15%;
+  /* display: inline-block; */
   border-radius: 50%;
-  color: red;
+  color:rgb(17, 90, 17);
   font-size: 36px;
   line-height: 120px
 }
