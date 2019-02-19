@@ -3,13 +3,10 @@ header {
     text-align: center;
 }
 
-
-
 .classA {
   font-family: 'Times New Roman', Times, serif;
   font-size: 2rem;
 }
-
 .headerImg {
     background-image: url('../img/moonlight.jpg');
     width: 100%;

@@ -5,7 +5,6 @@ import Header from '../Header/Header';
 import About from '../About/About';
 import Projects from '../Projects/Projects';
 import Skills from '../Skills/Skills';
-import Contact from '../Contact/Contact';
 import './App.css';
 import Footer from '../Footer/Footer';
 
@@ -19,7 +18,6 @@ class App extends Component {
             <About />
             <Skills/>
             <Projects/>
-            <Contact/>
             <Footer/>
             </div>
         );

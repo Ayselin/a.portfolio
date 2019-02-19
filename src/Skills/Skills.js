@@ -1,6 +1,7 @@
 import React, { Component } from "react";
-import './Skills.css'
-import reactImg from '../img/react.svg'
+import './Skills.css';
+import reactImg from '../img/react.svg';
+import nodeJs from '../img/nodejs.svg';
 
 class Skills extends Component {
     render() {
@@ -8,24 +9,9 @@ class Skills extends Component {
             <div className="skills" id='skills'>
                 <h1> My Skills </h1>
                 <div className='skills-row'>
-                    <div>
-                        <img src={reactImg} alt='react'></img>
-                    </div>
-                    <div>
-                        <span><ion-icon name="logo-html5"></ion-icon></span>
-                    </div>
-                    <div>
-                        <span><ion-icon name="logo-css3"></ion-icon></span>
-                    </div>
-                    <div>
-                        <span><ion-icon name="git-branch"></ion-icon></span>
-                    </div>
-                    <div>
-                        <span><ion-icon name="logo-nodejs"></ion-icon></span>
-                    </div>
-                    <div>
-                        <span></span>
-                    </div>
+                    <img src={reactImg} alt='react'></img>
+                    <img src={nodeJs} alt='nodeJs'></img>
+
                 </div>
             </div>
         )

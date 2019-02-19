@@ -2,7 +2,7 @@ nav {
     opacity: .9;
     display: flex;
     justify-content: space-between;
-    background-color: rgb(82, 3, 70);
+    background-color: rgb(105, 49, 82);
     align-items: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     top: 0;
@@ -31,12 +31,17 @@ nav ul li a {
 .nav-links {
   display:flex;
   left: 5%;
-  margin: auto;
-  display: block !important;
+  margin: 10px;
+  display: block;
 }
 .nav-links i {
   color: black;
 }
 html {
   scroll-behavior: smooth;
+}
+.nav-icon {
+ width: 5%;
+ color: white;
+ margin: 5px;
 }
