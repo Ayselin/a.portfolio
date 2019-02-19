@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "be2df79601b32143d336bd076429b909",
-    "url": "/a.portfolio/static/media/nodejs.be2df796.svg"
+    "revision": "25a4ba94c8a917805e5c90e39d663933",
+    "url": "/a.portfolio/static/media/moonlight.25a4ba94.jpg"
   },
   {
-    "revision": "59f532f10a99eaaf205c",
-    "url": "/a.portfolio/static/css/main.f5de05d5.chunk.css"
+    "revision": "6e290c489110a64d2609",
+    "url": "/a.portfolio/static/css/main.365fc524.chunk.css"
   },
   {
-    "revision": "b06871f281fee6b241d60582ae9369b9",
-    "url": "/a.portfolio/static/media/fontawesome-webfont.b06871f2.ttf"
+    "revision": "912ec66d7572ff821749319396470bde",
+    "url": "/a.portfolio/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "b7b12bfd5fd146e74745",
-    "url": "/a.portfolio/static/js/1.b7b12bfd.chunk.js"
+    "revision": "2efabb3ac82c462bbba4",
+    "url": "/a.portfolio/static/js/1.2efabb3a.chunk.js"
   },
   {
     "revision": "8a493cf96694c11a661d",
@@ -32,16 +32,8 @@ self.__precacheManifest = [
     "url": "/a.portfolio/static/media/email.e6956db2.svg"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/a.portfolio/static/media/react.5d5d9eef.svg"
-  },
-  {
-    "revision": "59f532f10a99eaaf205c",
-    "url": "/a.portfolio/static/js/main.59f532f1.chunk.js"
-  },
-  {
-    "revision": "25a4ba94c8a917805e5c90e39d663933",
-    "url": "/a.portfolio/static/media/moonlight.25a4ba94.jpg"
+    "revision": "6e290c489110a64d2609",
+    "url": "/a.portfolio/static/js/main.6e290c48.chunk.js"
   },
   {
     "revision": "1624727a91705ed76ec1e4c81af17261",
@@ -60,15 +52,15 @@ self.__precacheManifest = [
     "url": "/a.portfolio/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "912ec66d7572ff821749319396470bde",
-    "url": "/a.portfolio/static/media/fontawesome-webfont.912ec66d.svg"
+    "revision": "b06871f281fee6b241d60582ae9369b9",
+    "url": "/a.portfolio/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
-    "revision": "b7b12bfd5fd146e74745",
-    "url": "/a.portfolio/static/css/1.eab7531d.chunk.css"
+    "revision": "2efabb3ac82c462bbba4",
+    "url": "/a.portfolio/static/css/1.331411e2.chunk.css"
   },
   {
-    "revision": "5d341f13773a8585d9c51623c15066cf",
+    "revision": "d98ef3657c592ce6fb23102ea18a70ba",
     "url": "/a.portfolio/index.html"
   }
 ];
