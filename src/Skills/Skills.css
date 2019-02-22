@@ -1,25 +1,36 @@
 .skills {
     flex-wrap: wrap;
     background-color: rgb(144, 148, 145);
-    padding-top: 110px;
+    padding-top: 140px;
     padding-bottom: 110px;
     text-align: center;
 }
- .skills h1 {
-   color: rgb(104, 9, 104);
-   margin-bottom: 40px;
+ .myskills {
+   color: rgb(11, 44, 11);
+   margin-bottom: 80px;
    margin-top: 0;
    padding: 0;
 }
 .skills-row {
-  display: flex;
-  /* flex-basis: 120px; */
-  justify-content: space-between;
-  width: 15%;
-  height: 15%;
-  /* display: inline-block; */
+  flex:1;
+  flex-basis:120px;
+  justify-content: space-around;
+  height: 50%;
+  margin: 10px;
   border-radius: 50%;
-  color:rgb(135, 141, 135);
-  font-size: 36px;
+  color:rgb(11, 44, 11);
+  font-size: 100px;
   line-height: 120px
+}
+.skills-row i {
+  margin-right: 7px;
+}
+
+.skills-1{
+  margin: 20px;
+}
+
+svg {
+ margin: 20px;
+ width: 20% !important
 }

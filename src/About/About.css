@@ -1,6 +1,9 @@
 .about {
+    
     width: 100%;
     height: 100vh;
+    padding-top: 25px;
+    background-color: #c3c3c3
 }
 
 .about-title {
@@ -18,11 +21,9 @@
     background-repeat: no-repeat;
     background-size: cover;
     width: 30%;
-    height: 80%;
+    height: 60%;
     border-radius: 50%;
-
 }
-
 .about-discription {
 width: 50%;
 }

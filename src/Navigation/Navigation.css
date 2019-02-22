@@ -1,14 +1,14 @@
 nav {
-    opacity: .9;
     display: flex;
     justify-content: space-between;
-    background-color: rgb(105, 49, 82);
+    background-color: rgb(141, 9, 119);
     align-items: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     top: 0;
     width: 100%;
     overflow: hidden;
     position: fixed;
+    opacity: px; ;
 }
 
 ul a:hover {
@@ -21,12 +21,14 @@ nav ul {
     padding-right: 30px;
 }
 nav ul li {
-    display: inline-block;
-    margin-right: 8px;
+  display: inline-block;
+  margin-right: 8px;
 }
-nav ul li a {
+.smoothscroll {
+  margin: 30px;
     text-decoration: none;
-    color: bisque;
+    color:rgb(163, 156, 156);
+    font-weight: bold;
 }
 .nav-links {
   display:flex;
@@ -34,14 +36,35 @@ nav ul li a {
   margin: 10px;
   display: block;
 }
-.nav-links i {
-  color: black;
-}
 html {
   scroll-behavior: smooth;
 }
 .nav-icon {
  width: 5%;
- color: white;
  margin: 5px;
+ 
+}
+
+.nav-icon img {
+  color: #fff;
+}
+
+@media only screen and (max-width: 1024px) {
+
+}
+
+@media only screen and (max-width: 900px) {
+  
+}
+
+@media only screen and (max-width: 767px) {
+  .nav-icon {
+    width: 24%;
+    margin: 5px;
+    
+   }
+}
+
+@media only screen and (max-width: 480px) {
+  
 }

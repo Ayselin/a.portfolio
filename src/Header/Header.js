@@ -1,45 +1,35 @@
-import React from "react";
-import ReactTextRotator from 'react-text-rotator';
+import React, { Component } from "react";
 import './Header.css'
 
 
 
-export default function  Header() {
+export default class Header extends Component {
 
-        return (
-            <header>
-                <div className='headerImg'>
-                    <div className='paragraph'>
-                        <MyComponent />   
-                    </div>
-                </div>
-            </header>
-        );
+  constructor() {
+    super();
+    this.state = {
+      welcomeMessage: 'Hi, I am a Web Developer from London, UK.'
+    };
+  }
 
-    }
-
-    const content = [
-        {
-          text: 'Hi, I am a Web Developer from London, UK.',
-          className: 'classA',
-          animation: 'fade',
-        },
-        {
-          text: 'Nice to meet You !',
-          className: 'classA',
-          animation: 'fade',
-        },
-        
-      ];
-       
-      const MyComponent = () => (
-        <div>
+  render() {
+    return (
+      <div className='home' id='home'>
+        <div className='headerImg'>
           <h1 className='header-title'>Aysel Rzayeva</h1>
-          <ReactTextRotator
-            content={content}
-            time={4000}
-            startDelay={3000}
-          />
+          <h1 className='header-p'>{this.state.welcomeMessage}
+          </h1>
         </div>
-      );
+      </div>
+    );
+  }
 
+  /* componentDidMount() {
+    setTimeout(() => {
+      this.setState({
+        welcomeMessage: 'Nice To Meet You !'
+      });
+    // }, 3000);
+  }*/
+
+}

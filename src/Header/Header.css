@@ -1,11 +1,7 @@
 header {
-    margin: 0 auto;
-    text-align: center;
-}
-
-.classA {
-  font-family: 'Times New Roman', Times, serif;
-  font-size: 2rem;
+  display: flex;
+  margin: 0 auto;
+  text-align: center;
 }
 .headerImg {
     background-image: url('../img/moonlight.jpg');
@@ -14,23 +10,25 @@ header {
     background-repeat: no-repeat;
     background-size:cover;
     background-position: center;
-    padding-top: 30px;
 }
 .header-title {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: sans-serif;
     margin-bottom: 30px;
     font-size: 4rem;
     color: rgb(14, 1, 14);
-    padding-top: 110px;
-
+    padding-top: 100px;
+    text-shadow: 2px 2px;
+    text-align: center;
 }
   .header-p {
+    text-align: center;
     margin: 5%;
     font-weight: bold;
     color: #000000;
     font-weight: 700;
     font-size: 1.75rem;
     font-family: 'Courier New', Courier, monospace;
+    padding-top: 10px;
   }
 
  
