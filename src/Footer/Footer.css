@@ -19,3 +19,15 @@
     color: white;
     font-size: 25px;
   }
+  .footer-email:hover {
+    background: #ddd;
+    color: black;
+  }
+  .footer-linkedin:hover {
+    background: #ddd;
+    color: black;
+  }
+  .footer-github:hover {
+    background: #ddd;
+    color: black;
+  }

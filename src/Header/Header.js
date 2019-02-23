@@ -24,12 +24,4 @@ export default class Header extends Component {
     );
   }
 
-  /* componentDidMount() {
-    setTimeout(() => {
-      this.setState({
-        welcomeMessage: 'Nice To Meet You !'
-      });
-    // }, 3000);
-  }*/
-
 }
