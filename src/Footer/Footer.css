@@ -4,9 +4,18 @@
     width: 100%;
     height: 10vh;
     background-color: rgb(78, 78, 76);
+    padding-top: 20px;
 }
-.footer-icons {
-    /* justify-content: inherit; */
-    padding-left: 40%;
-    padding-top: 1.5%;
-}
+.footer-github {
+    color: white;
+    font-size: 25px;
+  }
+  .footer-linkedin {
+    color: white;
+    font-size: 25px;
+    margin: 30px;
+  }
+  .footer-email{
+    color: white;
+    font-size: 25px;
+  }

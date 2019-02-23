@@ -27,7 +27,7 @@ nav ul li {
 .smoothscroll {
   margin: 30px;
     text-decoration: none;
-    color:rgb(163, 156, 156);
+    color:white;
     font-weight: bold;
 }
 .nav-links {
@@ -39,14 +39,18 @@ nav ul li {
 html {
   scroll-behavior: smooth;
 }
-.nav-icon {
- width: 5%;
- margin: 5px;
- 
-}
 
-.nav-icon img {
-  color: #fff;
+.nav-github {
+  color: white;
+  font-size: 40px;
+}
+.nav-linkedin {
+  color: white;
+  font-size: 40px;
+}
+.nav-email{
+  color: white;
+  font-size: 40px;
 }
 
 @media only screen and (max-width: 1024px) {
@@ -58,7 +62,7 @@ html {
 }
 
 @media only screen and (max-width: 767px) {
-  .nav-icon {
+  .nav-github {
     width: 24%;
     margin: 5px;
     

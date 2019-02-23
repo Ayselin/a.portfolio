@@ -10,13 +10,14 @@ header {
     background-repeat: no-repeat;
     background-size:cover;
     background-position: center;
+    padding-top: 10px;
 }
 .header-title {
     font-family: sans-serif;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
     font-size: 4rem;
     color: rgb(14, 1, 14);
-    padding-top: 100px;
+    padding-top: 50px;
     text-shadow: 2px 2px;
     text-align: center;
 }
@@ -28,7 +29,6 @@ header {
     font-weight: 700;
     font-size: 1.75rem;
     font-family: 'Courier New', Courier, monospace;
-    padding-top: 10px;
   }
 
  
