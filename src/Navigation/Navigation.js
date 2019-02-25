@@ -9,20 +9,20 @@ class Navigation extends Component {
         return (
             <nav>
                 <div className='nav-links'>
-                        <a className='nav-github'
+                        <a className='nav-link'
                             href='https://github.com/Ayselin'
                             target="_blank"
                             rel="noreferrer noopener">
                             <i class="fab fa-github" />
                         </a>
-                        <a className='nav-linkedin'
+                        <a className='nav-link'
                             href='https://www.linkedin.com/in/aysel-rzayeva-722a39172/'
                             target="_blank"
                             rel="noreferrer noopener"
                         >
                             <i class="fab fa-linkedin" />
                         </a>
-                        <a className='nav-email'
+                        <a className='nav-link'
                             href='mailto:ayselrzayeva@hotmail.com'
                             target="_blank"
                             rel="noreferrer noopener"

@@ -6,6 +6,8 @@ nav {
     top: 0;
     position: fixed;
     opacity: 0.8; 
+    width:100%;
+    justify-content: space-between;
 }
 
 ul a:hover {
@@ -31,30 +33,12 @@ nav ul li {
   display:flex;
   margin: 10px;
 }
-html {
-  scroll-behavior: smooth;
-}
 
-.nav-github {
+.nav-link {
+  flex: 0;
   color: white;
   font-size: 40px;
-}
-.nav-linkedin {
-  color: white;
-  font-size: 40px;
-}
-.nav-email{
-  color: white;
-  font-size: 40px;
-}
-
-.nav-links img {
-  color: white;
-  width: 10%;
-}
-
-.icon {
-  padding-right: 0;
+  padding: 0 20px;
 }
 
 @media only screen and (max-width: 1024px) {
