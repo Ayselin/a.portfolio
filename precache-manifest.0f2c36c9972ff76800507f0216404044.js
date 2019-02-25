@@ -4,48 +4,44 @@ self.__precacheManifest = [
     "url": "/a.portfolio/static/media/moonlight.25a4ba94.jpg"
   },
   {
-    "revision": "ae1183fa317ee167f5d6",
-    "url": "/a.portfolio/static/css/main.47e48228.chunk.css"
+    "revision": "c6aae1404ffa107515c6",
+    "url": "/a.portfolio/static/css/main.2f2b72cc.chunk.css"
   },
   {
     "revision": "912ec66d7572ff821749319396470bde",
     "url": "/a.portfolio/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "80fcbd3f81d539850bd5",
-    "url": "/a.portfolio/static/js/1.80fcbd3f.chunk.js"
+    "revision": "0e1f42bcc10b5830c5dd",
+    "url": "/a.portfolio/static/js/1.0e1f42bc.chunk.js"
   },
   {
     "revision": "8a493cf96694c11a661d",
     "url": "/a.portfolio/static/js/runtime~main.8a493cf9.js"
   },
   {
-    "revision": "67910a24ef067bf5dc2400ab841889c4",
-    "url": "/a.portfolio/static/media/github.67910a24.svg"
+    "revision": "4d0e1f6b7be9b8c32346b9ab7f895e06",
+    "url": "/a.portfolio/static/media/kodflix.4d0e1f6b.png"
   },
   {
-    "revision": "a17e5c5cea77a5118b0eb23a3b807d82",
-    "url": "/a.portfolio/static/media/linkedin.a17e5c5c.svg"
+    "revision": "94de629ec5f4e786db3dce06178ea2d3",
+    "url": "/a.portfolio/static/media/codingwoman.94de629e.png"
   },
   {
-    "revision": "e6956db22f6b55500046d41bb128484a",
-    "url": "/a.portfolio/static/media/email.e6956db2.svg"
-  },
-  {
-    "revision": "ae1183fa317ee167f5d6",
-    "url": "/a.portfolio/static/js/main.ae1183fa.chunk.js"
+    "revision": "c6aae1404ffa107515c6",
+    "url": "/a.portfolio/static/js/main.c6aae140.chunk.js"
   },
   {
     "revision": "1624727a91705ed76ec1e4c81af17261",
     "url": "/a.portfolio/static/media/moonlight2.1624727a.jpg"
   },
   {
-    "revision": "fee66e712a8a08eef5805a46892932ad",
-    "url": "/a.portfolio/static/media/fontawesome-webfont.fee66e71.woff"
-  },
-  {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
     "url": "/a.portfolio/static/media/fontawesome-webfont.674f50d2.eot"
+  },
+  {
+    "revision": "fee66e712a8a08eef5805a46892932ad",
+    "url": "/a.portfolio/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
@@ -56,11 +52,11 @@ self.__precacheManifest = [
     "url": "/a.portfolio/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
-    "revision": "80fcbd3f81d539850bd5",
-    "url": "/a.portfolio/static/css/1.3573f4ec.chunk.css"
+    "revision": "0e1f42bcc10b5830c5dd",
+    "url": "/a.portfolio/static/css/1.8bfcba10.chunk.css"
   },
   {
-    "revision": "406f382ee9610faaf0680ed4edd68963",
+    "revision": "53fb401eb715d83d36c06416a53385e5",
     "url": "/a.portfolio/index.html"
   }
 ];
