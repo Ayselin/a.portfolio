@@ -1,28 +1,35 @@
 .projects {
-display: flex;
+text-align: center;
 background-color: rgb(165, 155, 156);
 width: 100%;
 height: 80vh; 
 padding-top: 50px;
 }
 .project-title{
-    display:flex;
+    text-align: center;
     font-family: sans-serif;
     margin-bottom: 50px;  
     color: rgb(14, 1, 14);
     padding-top: 50px;
     text-align: center;
 }
+.project-container {
+    display: flex;
+    margin-bottom: 60px;
+}
 .project-kodflix{
     background-repeat: no-repeat;
     background-size: cover;
-    width: 30%;
-    height: 60%;  
+    width: 50%;
+    height: 100%;  
 }
 
 .project-coding{
     background-repeat: no-repeat;
     background-size: cover;
-    width: 30%;
-    height: 60%;  
+    width: 50%;
+    height: 100%;  
+}
+.project-description {
+
 }
