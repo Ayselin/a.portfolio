@@ -1,9 +1,5 @@
 import React, { Component } from "react";
 import './Footer.css';
-import gitHub from '../img/github.svg';
-import linkedin from '../img/linkedin.svg';
-import email from '../img/email.svg';
-
 
 class Footer extends Component {
     render() {
