@@ -1,7 +1,7 @@
 {
-  "main.css": "/a.portfolio/static/css/main.1f71fcca.chunk.css",
-  "main.js": "/a.portfolio/static/js/main.d114c8a6.chunk.js",
-  "main.js.map": "/a.portfolio/static/js/main.d114c8a6.chunk.js.map",
+  "main.css": "/a.portfolio/static/css/main.1c1c77eb.chunk.css",
+  "main.js": "/a.portfolio/static/js/main.02f70200.chunk.js",
+  "main.js.map": "/a.portfolio/static/js/main.02f70200.chunk.js.map",
   "static/css/1.8bfcba10.chunk.css": "/a.portfolio/static/css/1.8bfcba10.chunk.css",
   "static/js/1.0e1f42bc.chunk.js": "/a.portfolio/static/js/1.0e1f42bc.chunk.js",
   "static/js/1.0e1f42bc.chunk.js.map": "/a.portfolio/static/js/1.0e1f42bc.chunk.js.map",
@@ -13,8 +13,8 @@
   "static/media/font-awesome.min.css": "/a.portfolio/static/media/fontawesome-webfont.912ec66d.svg",
   "static/media/codingwoman.png": "/a.portfolio/static/media/codingwoman.94de629e.png",
   "static/css/1.8bfcba10.chunk.css.map": "/a.portfolio/static/css/1.8bfcba10.chunk.css.map",
-  "static/css/main.1f71fcca.chunk.css.map": "/a.portfolio/static/css/main.1f71fcca.chunk.css.map",
+  "static/css/main.1c1c77eb.chunk.css.map": "/a.portfolio/static/css/main.1c1c77eb.chunk.css.map",
   "index.html": "/a.portfolio/index.html",
-  "precache-manifest.2ca652f38e00f438673e7027f9b27130.js": "/a.portfolio/precache-manifest.2ca652f38e00f438673e7027f9b27130.js",
+  "precache-manifest.e79483bc1975f625e92ad00dd9de5cb6.js": "/a.portfolio/precache-manifest.e79483bc1975f625e92ad00dd9de5cb6.js",
   "service-worker.js": "/a.portfolio/service-worker.js"
 }
