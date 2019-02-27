@@ -13,28 +13,28 @@ class Navigation extends Component {
                             href='https://github.com/Ayselin'
                             target="_blank"
                             rel="noreferrer noopener">
-                            <i class="fab fa-github" />
+                            <i className="fab fa-github" />
                         </a>
                         <a className='nav-link'
                             href='https://www.linkedin.com/in/aysel-rzayeva-722a39172/'
                             target="_blank"
                             rel="noreferrer noopener"
                         >
-                            <i class="fab fa-linkedin" />
+                            <i className="fab fa-linkedin" />
                         </a>
                         <a className='nav-link'
                             href='mailto:ayselrzayeva@hotmail.com'
                             target="_blank"
                             rel="noreferrer noopener"
                         >
-                            <i class="fas fa-envelope" />
+                            <i className="fas fa-envelope" />
                         </a>
                     </div>
                 <ul>
-                    <li><a className='smoothscroll' href='#home'>Home</a></li>
-                    <li><a className='smoothscroll' href='#about'>About</a></li>
-                    <li><a className='smoothscroll' href='#skills'>Skills</a></li>
-                    <li><a className='smoothscroll' href='#projects'>Projects</a></li>
+                    <li><a className='nav-bar' href='#home'>Home</a></li>
+                    <li><a className='nav-bar' href='#about'>About</a></li>
+                    <li><a className='nav-bar' href='#skills'>Skills</a></li>
+                    <li><a className='nav-bar' href='#projects'>Projects</a></li>
                 </ul>
             </nav>
 

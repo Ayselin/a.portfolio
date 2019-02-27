@@ -15,8 +15,8 @@ class Projects extends Component {
                             rel="noreferrer noopener" ><img className='project-kodflix' src={kodflix} alt='guthub'></img>
                         </a>
                         <h2>KODFLIX</h2>
-                        <p className='project-description'>A full stack project simulating the production of Netflix.<br />
-                           Used technologies: React.jsm Styling: CSS</p>
+                        <p className='project-description'><br />
+                           </p>
                     </div>
                     <div className='projects-container2'>
                         <a href='https://kodiri.github.io/8-days-a-week/#/'

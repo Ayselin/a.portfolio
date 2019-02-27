@@ -9,13 +9,13 @@ class Skills extends Component {
             <div className="skills" id='skills'>
                 <h1 className='myskills'> My Skills </h1>
                 <div className='skills-row'>
-                    <i class="fab fa-node"></i>
-                    <i class="fab fa-js-square"></i>
-                    <i class="fab fa-react"></i>
-                    <i class="fab fa-html5"></i>
-                    <i class="fab fa-css3-alt"></i>
-                    <i class="fab fa-git"></i>
-                    <i class="fab fa-slack"></i>
+                    <i className="icons fab fa-node"></i>
+                    <i className="icons fab fa-js-square"></i>
+                    <i className="icons fab fa-react"></i>
+                    <i className="icons fab fa-html5"></i>
+                    <i className="icons fab fa-css3-alt"></i>
+                    <i className="icons fab fa-git"></i>
+                    <i className="icons fab fa-slack"></i>
                 </div>
             </div>
         )
