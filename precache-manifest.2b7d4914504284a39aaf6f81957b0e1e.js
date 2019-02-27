@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/a.portfolio/static/media/moonlight.25a4ba94.jpg"
   },
   {
-    "revision": "868fb18f599c3e2ff69b",
-    "url": "/a.portfolio/static/css/main.f1855e1e.chunk.css"
+    "revision": "0beec3d00d86955f1b15",
+    "url": "/a.portfolio/static/css/main.48cfcfb7.chunk.css"
   },
   {
     "revision": "912ec66d7572ff821749319396470bde",
@@ -28,12 +28,16 @@ self.__precacheManifest = [
     "url": "/a.portfolio/static/media/codingwoman.94de629e.png"
   },
   {
-    "revision": "868fb18f599c3e2ff69b",
-    "url": "/a.portfolio/static/js/main.868fb18f.chunk.js"
+    "revision": "0beec3d00d86955f1b15",
+    "url": "/a.portfolio/static/js/main.0beec3d0.chunk.js"
   },
   {
     "revision": "1624727a91705ed76ec1e4c81af17261",
     "url": "/a.portfolio/static/media/moonlight2.1624727a.jpg"
+  },
+  {
+    "revision": "af7ae505a9eed503f8b8e6982036873e",
+    "url": "/a.portfolio/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
@@ -44,10 +48,6 @@ self.__precacheManifest = [
     "url": "/a.portfolio/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "af7ae505a9eed503f8b8e6982036873e",
-    "url": "/a.portfolio/static/media/fontawesome-webfont.af7ae505.woff2"
-  },
-  {
     "revision": "b06871f281fee6b241d60582ae9369b9",
     "url": "/a.portfolio/static/media/fontawesome-webfont.b06871f2.ttf"
   },
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/a.portfolio/static/css/1.8bfcba10.chunk.css"
   },
   {
-    "revision": "e4d78ac5648fe4dc4ef989c3a6a3a8e5",
+    "revision": "bafd3cf913ac046d88d9efb0feb2f297",
     "url": "/a.portfolio/index.html"
   }
 ];
