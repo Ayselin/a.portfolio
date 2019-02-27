@@ -1,5 +1,4 @@
 .about {
-    
     width: 100%;
     height: 100vh;
     padding-top: 25px;
@@ -26,4 +25,10 @@
 }
 .about-discription {
 width: 50%;
+}
+
+@media only screen and (max-width: 800px){
+.about-paragrath {
+font-size: 13px;
+}
 }

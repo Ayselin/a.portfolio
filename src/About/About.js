@@ -11,7 +11,7 @@ class About extends Component {
                     <div className='about-img2'>
                     </div>
                     <div className='about-discription'>
-                        <p className='about-p'>I am keen to explore and utilise all of the tools available to make my work effective, 
+                        <p className='about-paragrath'>I am keen to explore and utilise all of the tools available to make my work effective, 
                            efficient and industry leading. I like to build things that work and look good. 
                            I am constantly improving and learning and I believe that anyone can learn from anyone.
                            Having divided my time between employment and education for the past few months,
