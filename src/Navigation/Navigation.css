@@ -2,18 +2,13 @@ nav {
     display: flex;
     background-color: rgb(141, 9, 119);
     align-items: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: sans-serif;
     top: 0;
     position: fixed;
     opacity: 0.8; 
     width:100%;
     justify-content: space-between;
 }
-
-ul a:hover {
-    background: #ddd;
-    color: black;
-  }
   
 nav ul {
     list-style: none;
