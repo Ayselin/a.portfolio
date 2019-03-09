@@ -16,7 +16,7 @@ header {
     font-family: sans-serif;
     margin-bottom: 50px;
     font-size: 4rem;
-    color: rgb(14, 1, 14);
+    color: rgb(238, 229, 238);
     padding-top: 50px;
     text-align: center;
 }
@@ -24,7 +24,7 @@ header {
     text-align: center;
     margin: 5%;
     font-weight: bold;
-    color: #000000;
+    color:rgb(238, 227, 238);
     font-weight: 700;
     font-size: 1.75rem;
     font-family: sans-serif;
@@ -32,7 +32,7 @@ header {
 
   @media only screen and (max-width: 800px) {
     .headerImg {
-      background-position: 20%;
+      background-position: 55%;
     }
     .header-title {
       font-size: 3rem;
