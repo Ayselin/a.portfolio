@@ -1,7 +1,7 @@
 {
-  "main.css": "/a.portfolio/static/css/main.9b214002.chunk.css",
-  "main.js": "/a.portfolio/static/js/main.6ba3475f.chunk.js",
-  "main.js.map": "/a.portfolio/static/js/main.6ba3475f.chunk.js.map",
+  "main.css": "/a.portfolio/static/css/main.a12a47f2.chunk.css",
+  "main.js": "/a.portfolio/static/js/main.7ba92a5f.chunk.js",
+  "main.js.map": "/a.portfolio/static/js/main.7ba92a5f.chunk.js.map",
   "static/css/1.8bfcba10.chunk.css": "/a.portfolio/static/css/1.8bfcba10.chunk.css",
   "static/js/1.0e1f42bc.chunk.js": "/a.portfolio/static/js/1.0e1f42bc.chunk.js",
   "static/js/1.0e1f42bc.chunk.js.map": "/a.portfolio/static/js/1.0e1f42bc.chunk.js.map",
@@ -12,9 +12,9 @@
   "static/media/About.css": "/a.portfolio/static/media/moonlight2.2684b410.jpg",
   "static/media/font-awesome.min.css": "/a.portfolio/static/media/fontawesome-webfont.912ec66d.svg",
   "static/media/codingwoman.png": "/a.portfolio/static/media/codingwoman.94de629e.png",
-  "static/css/main.9b214002.chunk.css.map": "/a.portfolio/static/css/main.9b214002.chunk.css.map",
+  "static/css/main.a12a47f2.chunk.css.map": "/a.portfolio/static/css/main.a12a47f2.chunk.css.map",
   "static/css/1.8bfcba10.chunk.css.map": "/a.portfolio/static/css/1.8bfcba10.chunk.css.map",
   "index.html": "/a.portfolio/index.html",
-  "precache-manifest.8ecdee0d95bd188ca7eb0e3fc59a2ca6.js": "/a.portfolio/precache-manifest.8ecdee0d95bd188ca7eb0e3fc59a2ca6.js",
+  "precache-manifest.d0a5ed0fedbfcc1caa7d7379c3e3381b.js": "/a.portfolio/precache-manifest.d0a5ed0fedbfcc1caa7d7379c3e3381b.js",
   "service-worker.js": "/a.portfolio/service-worker.js"
 }
