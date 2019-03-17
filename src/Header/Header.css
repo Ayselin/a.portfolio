@@ -35,7 +35,12 @@ header {
       background-position: 80%;
     }
     .header-title {
-      font-size: 3rem;
+      font-size: 2rem;
       padding-top: 90px;
+    }
+  }
+  @media only screen and (max-width: 1200px) {
+    .headerImg {
+      background-position: 80%;
     }
   }

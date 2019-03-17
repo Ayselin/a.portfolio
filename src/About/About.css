@@ -28,14 +28,11 @@ width: 50%;
 
 @media only screen and (max-width: 800px){
 .about-paragrath {
-font-size: 13px;
+font-size: 12px;
 }
-
-@media only screen and (max-width: 800px){
 .about-img2 {  
     width: 30%;
     height: 30%;
     border-radius: 0%
-}
 }
 }
