@@ -26,7 +26,10 @@ class Footer extends Component {
                     >
                         Email
                         </a>
-                </div>
+                    </div>
+                    <div class="legal">
+                        &copy; 2019 made by me. All rights reserved.
+                    </div>
             </div>
         )
     }
