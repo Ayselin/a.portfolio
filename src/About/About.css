@@ -24,6 +24,7 @@
 }
 .about-discription {
 width: 50%;
+text-align: justify;
 }
 
 @media only screen and (max-width: 800px){
