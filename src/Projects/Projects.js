@@ -9,12 +9,12 @@ const myProjects = [{
     title: "KODFLIX",
     img: kodflix,
     link: "https://kodflix-aysel.herokuapp.com/",
-    description: "foo",
+    description: "",
 }, {
     title: "8 Days a Week",
     img: coding,
     link: "https://kodiri.github.io/8-days-a-week/#/",
-    description: "bar",
+    description:"",
 }]
 
 const Projects = () => (
